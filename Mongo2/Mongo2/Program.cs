@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Mongo2
 {
     class Program
-                         public Utiles.Class1 MyProperty { get; set; }
     {
+        public Utiles.Class1 MyProperty { get; set; }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
